@@ -82,17 +82,23 @@ Para o desenvolvimento do projeto, foi definida uma divisão inicial de tarefas 
 * Janaína Gomes de Souza
   
 Criação e organização do repositório no GitHub.
+
 Estruturação da documentação do projeto.
+
 Coordenação geral do grupo e organização das entregas.
 
 * Sabrina da Silva Souza
   
 Pesquisa sobre normas e frameworks de segurança da informação (ISO 27001 e NIST).
+
 Levantamento de informações sobre a LGPD e sua aplicação em políticas de segurança.
+
 Coleta de referências de políticas de segurança utilizadas por empresas.
 
 * Raiany Maximiano
 
 Estruturação da Política de Segurança da Informação (PSI).
+
 Definição dos domínios de segurança que serão abordados na política.
+
 Apoio na elaboração do plano de implementação da PSI.
