@@ -76,6 +76,8 @@ As próximas etapas do projeto incluem:
 * Elaboração do plano de implementação da PSI.
 * Desenvolvimento do relatório final conforme as normas da ABNT.
 
+---
+
 # 8. Distribuição Inicial de Responsabilidades
 Para o desenvolvimento do projeto, foi definida uma divisão inicial de tarefas entre as integrantes do grupo, com o objetivo de organizar as atividades e facilitar o andamento do trabalho.
 
